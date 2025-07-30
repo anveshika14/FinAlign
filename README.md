@@ -1,1 +1,3 @@
 # FinAlign
+
+## Technologies used:
